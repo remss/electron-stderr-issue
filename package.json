@@ -1,0 +1,11 @@
+{
+  "name": "electron-stderr-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ./main.js",
+    "test-issue": "node test-issue.js"
+  },
+  "dependencies": {
+    "electron": "^8.0.1"
+  }
+}
