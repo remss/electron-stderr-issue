@@ -6,6 +6,6 @@
     "test-issue": "node test-issue.js"
   },
   "dependencies": {
-    "electron": "^8.0.1"
+    "electron": "^8.5.1"
   }
 }
